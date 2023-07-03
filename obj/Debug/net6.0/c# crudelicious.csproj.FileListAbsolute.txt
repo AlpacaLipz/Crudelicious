@@ -1,0 +1,8 @@
+C:\Users\19045\Desktop\c# crudelicious\obj\Debug\net6.0\c# crudelicious.csproj.AssemblyReference.cache
+C:\Users\19045\Desktop\c# crudelicious\obj\Debug\net6.0\c# crudelicious.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19045\Desktop\c# crudelicious\obj\Debug\net6.0\c# crudelicious.AssemblyInfoInputs.cache
+C:\Users\19045\Desktop\c# crudelicious\obj\Debug\net6.0\c# crudelicious.AssemblyInfo.cs
+C:\Users\19045\Desktop\c# crudelicious\obj\Debug\net6.0\c# crudelicious.csproj.CoreCompileInputs.cache
+C:\Users\19045\Desktop\c# crudelicious\obj\Debug\net6.0\c# crudelicious.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\19045\Desktop\c# crudelicious\obj\Debug\net6.0\c# crudelicious.RazorAssemblyInfo.cache
+C:\Users\19045\Desktop\c# crudelicious\obj\Debug\net6.0\c# crudelicious.RazorAssemblyInfo.cs
